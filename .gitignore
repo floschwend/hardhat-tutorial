@@ -1,0 +1,6 @@
+/node_modules
+/cache
+/artifacts
+/ignition/deployments
+hardhat.config.js
+package-lock.json
